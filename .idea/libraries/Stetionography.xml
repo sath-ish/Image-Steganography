@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Stetionography">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Stetionography/dist/Stetionography.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
